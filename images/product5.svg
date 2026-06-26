@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="180" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">
+    <rect width="270" height="180" fill="#FCF3F3"/>
+    <rect x="85" y="35" width="100" height="110" rx="4" fill="#ffffff" opacity="0.9" stroke="#EAEAEA" stroke-width="1"/>
+    <rect x="110" y="25" width="50" height="15" rx="2" fill="#EAEAEA" />
+    <text x="135" y="90" font-size="16" font-weight="500" fill="#333333" text-anchor="middle" letter-spacing="2">精华霜</text>
+    <text x="135" y="115" font-size="10" font-weight="400" fill="#999999" text-anchor="middle" letter-spacing="1">Cream</text>
+  </svg>
